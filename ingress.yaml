@@ -13,6 +13,6 @@ spec:
             pathType: Prefix
             backend:
               service:
-                name: hellworld-app
+                name: helloworld-app
                 port:
                   number: 8043
